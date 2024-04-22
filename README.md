@@ -20,9 +20,9 @@
 
 
  
-| Rewards | Distance    | Gif 10th Checkpoint    | 
+| Reward | Distance    | Gif 10th Checkpoint    | 
 | ------------ | ------------ | ------------ |
-| <img src="/1_DQN_VAN/rewards.png" width="300" height="221">  |  <img src="/1_DQN_VAN/max_distance.png" width="300" height="221">  | <img src="/1_DQN_VAN/10_31.gif" width="350" height="196">  |
+| <img src="/1_DQN_VAN/rewards.png" width="500" height="221">  |  <img src="/1_DQN_VAN/max_distance.png" width="500" height="221">  | <img src="/1_DQN_VAN/10_31.gif" width="300" height="170">  |
 
 
 [summary]
@@ -39,7 +39,7 @@
 
 | Rewards | Distance    | Gif 16th Checkpoint    | 
 | ------------ | ------------ | ------------ |
-| <img src="/2_DQN_OR/rewards.png" width="300" height="221">  |  <img src="/2_DQN_OR/max_distance.png" width="300" height="221">  | <img src="/2_DQN_OR/16_32.gif" width="350" height="196">  |
+| <img src="/2_DQN_OR/rewards.png" width="500" height="221">  |  <img src="/2_DQN_OR/max_distance.png" width="500" height="221">  | <img src="/2_DQN_OR/16_32.gif" width="300" height="170">  |
 
 
 [summary]
@@ -55,7 +55,7 @@
 
 | Rewards | Distance    | Gif 28th Checkpoint    | 
 | ------------ | ------------ | ------------ |
-| <img src="/3_PPO_VAN/rewards.png" width="300" height="221">  |  <img src="/3_PPO_VAN/max_distance.png" width="300" height="221">  | <img src="/3_PPO_VAN/30_28.gif" width="350" height="196">  |
+| <img src="/3_PPO_VAN/rewards.png" width="500" height="221">  |  <img src="/3_PPO_VAN/max_distance.png" width="500" height="221">  | <img src="/3_PPO_VAN/30_28.gif" width="300" height="170">  |
 
 [summary]
 
@@ -70,6 +70,6 @@
 
 | Rewards | Distance    | Gif 30th Checkpoint    | 
 | ------------ | ------------ | ------------ |
-| <img src="/4_PPO_CL2/rewards.png" width="300" height="221">  |  <img src="/4_PPO_CL2/max_distance.png" width="300" height="221">  | <img src="/4_PPO_CL2/30_25.gif" width="350" height="196">  |
+| <img src="/4_PPO_CL2/rewards.png" width="500" height="221">  |  <img src="/4_PPO_CL2/max_distance.png" width="500" height="221">  | <img src="/4_PPO_CL2/30_25.gif" width="300" height="170">  |
 
 [summary]
